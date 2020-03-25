@@ -1,5 +1,7 @@
 # Covid19
 A small project which started as a simple plot of cases reported by the LA County Public Health site, now includes data from Romania and the state of Mississippi.
+
+
 sources: 
 for LA County data:
 http://publichealth.lacounty.gov/media/Coronavirus/
